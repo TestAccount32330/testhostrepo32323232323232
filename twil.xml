@@ -1,4 +1,3 @@
 <Response>
 <Say voice="woman">Your message here</Say>
-  <Play>https://simplefilemanagertesting.replit.app/files/current.mp3</Play>
 </Response>
